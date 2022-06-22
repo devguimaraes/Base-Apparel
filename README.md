@@ -1,5 +1,9 @@
 # Frontend Mentor - Base Apparel coming soon page
 
+[![GitHub license](https://img.shields.io/github/license/devguimaraes/Base-Apparel)](https://github.com/devguimaraes/Base-Apparel/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/devguimaraes/Base-Apparel)](https://github.com/devguimaraes/Base-Apparel/issues)
+[![GitHub forks](https://img.shields.io/github/forks/devguimaraes/Base-Apparel)](https://github.com/devguimaraes/Base-Apparel/network)
+
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
