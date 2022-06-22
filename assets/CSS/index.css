@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap');
+@import './header.css';
+@import './img.css';
+@import './sobre.css';
+
+body {
+	max-width: 1440px;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 16px;
+}
+
+/* Estrutura principal da página */
+
+.conteudo {
+	box-sizing: border-box;
+	display: flex;
+
+}

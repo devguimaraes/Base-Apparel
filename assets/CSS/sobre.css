@@ -1,0 +1,31 @@
+.conteudo-sobre {
+	display: flex;
+	flex-direction: column;
+	width: 50vw;
+	height: 100vh;
+	margin: 5rem 5rem;
+
+}
+
+.sobre-titulo {
+	font-size: 5rem;
+	font-weight: 600;
+	padding: 1rem 0;
+	letter-spacing: 1rem;
+}
+
+
+.sobre--cor {
+	color: hsl(0, 93%, 68%);
+}
+
+
+.sobre-paragrafo {
+	color: hsl(0, 34%, 51%);
+	font-size: 1.2rem;
+	font-weight: 500;
+}
+
+.foto-sobre {
+	width: 50vw;
+}
