@@ -1,4 +1,4 @@
 .foto-sobre-principal {
-	width: auto;
-	height: 100%;
+	width: -webkit-fill-available;
+	height: 100vh;
 }
